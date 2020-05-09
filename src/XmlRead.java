@@ -42,7 +42,7 @@ public class XmlRead {
 
 
 
-    String apiquery="http://api.nbp.pl/api/exchangerates/rates/a/"+currency[0]+"/?format=xml";
+    
 
 
     private  Document importxml(String url) throws Exception {
